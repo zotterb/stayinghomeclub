@@ -68,13 +68,6 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Apollo GraphQL
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
-
 - name: AppGyver
   wfh: Encouraged
   travel: Restricted
@@ -831,6 +824,13 @@
   events: Restricted
   last_update: 2020-03-09
 
+- name: Medium
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+  
 - name: Medaptive Health
   wfh: Required
   travel: Restricted
